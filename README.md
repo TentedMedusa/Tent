@@ -1,4 +1,4 @@
 # Tent
 
-Hi Firends
+Hi Friends
 this is my first repository!
